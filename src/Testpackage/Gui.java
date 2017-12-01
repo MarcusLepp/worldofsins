@@ -21,7 +21,8 @@ import javax.swing.JInternalFrame;
 import java.awt.event.ActionListener;
 
 public class Gui extends JFrame {
-
+	
+//Test Comment
 	private JPanel contentPane;
 	private JTextField txtHorde;
 	private JTextField txtAlliance;
